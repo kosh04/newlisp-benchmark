@@ -1,10 +1,10 @@
 ## Benchmarking newLISP (tested on newLISP v.10.2.4)
 
-<http://www.newlisp.org/benchmarks/> ‚É‚ ‚énewLISP‚Ìƒxƒ“ƒ`ƒ}[ƒN—pƒR[ƒh
-‚ªƒ\ƒtƒgƒEƒFƒA‚Ìƒo[ƒWƒ‡ƒ“ƒAƒbƒv‚É”º‚¢“®‚©‚È‚¢‚à‚Ì‚ª‚ ‚Á‚½‚Ì‚ÅAŠô‚Â‚©Žè
-’¼‚µ‚µ‚½‚à‚Ì‚ð’u‚¢‚Ä‚Ü‚·B
+<http://www.newlisp.org/benchmarks/> ã«ã‚ã‚‹newLISPã®ãƒ™ãƒ³ãƒãƒžãƒ¼ã‚¯ç”¨ã‚³ãƒ¼ãƒ‰
+ãŒã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‚¢ãƒƒãƒ—ã«ä¼´ã„å‹•ã‹ãªã„ã‚‚ã®ãŒã‚ã£ãŸã®ã§ã€å¹¾ã¤ã‹æ‰‹
+ç›´ã—ã—ãŸã‚‚ã®ã‚’ç½®ã„ã¦ã¾ã™ã€‚
 
-## ŽQlƒŠƒ“ƒN
+## å‚è€ƒãƒªãƒ³ã‚¯
 
 - newLISP - Home
   <http://www.newlisp.org/>
@@ -13,4 +13,4 @@
   <http://www.newlisp.org/benchmarks/>
 
 - The Great Win32 Computer Language Shootout 
-  <http://web.archive.org/web/20080204224339/http://dada.perl.it/shootout/>
+  <http://dada.perl.it/shootout/>
